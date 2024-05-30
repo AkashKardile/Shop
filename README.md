@@ -97,7 +97,7 @@ Please ensure your code follows the project's coding standards and includes test
 Thank you for contributing to the project!
 
 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LISENSE](LISENSE) file for more details.
 
 **Acknowledgements**
 
