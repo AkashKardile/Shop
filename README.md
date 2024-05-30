@@ -47,13 +47,13 @@ Ensure you have the following installed:
         Using npm:npm start
         Using yarn:yarn start
 
-        The application will be available at [http://localhost:3000](http://localhost:3000/)
+        The application will be available at http://localhost:3000
 
    
 
 **Project Structure**
 
-src/
+    src/
 
     ├── components/ # Reusable components
 
