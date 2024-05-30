@@ -7,10 +7,8 @@ This is a shop application built using React, React Router, and Redux Toolkit. T
 ## Features
 
 - **Product Listing**: View a list of products available for purchase.
-- **Product Details**: Click on a product to view more details.
 - **Shopping Cart**: Add products to the shopping cart and manage the cart contents.
-- **Checkout**: Proceed with the checkout process.
-- **Routing**: Navigate between different pages such as home, product details, and cart.
+- **Routing**: Navigate between different pages such as home,  cart.
 - **State Management**: Efficient state management using Redux Toolkit.
 - **Debugging**: State debugging using Redux DevTools.
 
@@ -34,12 +32,10 @@ Ensure you have the following installed:
 ### Installation
 
 1.  **Clone the repository:**
-
-    ```sh
     git clone  https://github.com/AkashKardile/Shop.git
-    cd shop-application
+    cd Shop
 
-    ```
+   
 
 2.  **Install dependencies**:
 
@@ -55,23 +51,21 @@ Ensure you have the following installed:
 
         The application will be available at [http://localhost:3000](http://localhost:3000)
 
-    ###### Building for Production
-
-    To build the application for production:
-
-    Using npm:npm run build
-    Using yarn:yarn build
-
-    The production-ready files will be in the build directory.
+   
 
 **Project Structure**
 
 src/
 ├── components/ # Reusable components
+
 ├── Store/ # Redux slices and related logic
+
 ├── pages/ # Page components for routing
+
 ├── App.js # Main application component
+
 ├── index.js # Entry point for React
+
 ├── ... # Other files and configurations
 
 **Redux DevTools**
