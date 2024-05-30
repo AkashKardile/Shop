@@ -33,9 +33,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     git clone  https://github.com/AkashKardile/Shop.git
-    cd Shop
-
-   
+    
 
 2.  **Install dependencies**:
 
@@ -49,24 +47,25 @@ Ensure you have the following installed:
         Using npm:npm start
         Using yarn:yarn start
 
-        The application will be available at [http://localhost:3000](http://localhost:3000)
+        The application will be available at [http://localhost:3000](http://localhost:3000/)
 
    
 
 **Project Structure**
 
 src/
-├── components/ # Reusable components
 
-├── Store/ # Redux slices and related logic
+    ├── components/ # Reusable components
 
-├── pages/ # Page components for routing
+    ├── Store/ # Redux slices and related logic
 
-├── App.js # Main application component
+    ├── pages/ # Page components for routing
 
-├── index.js # Entry point for React
+    ├── App.js # Main application component
 
-├── ... # Other files and configurations
+    ├── index.js # Entry point for React
+
+    ├── ... # Other files and configurations
 
 **Redux DevTools**
 This project is configured to work with Redux DevTools for state debugging. To use it:
