@@ -54,17 +54,11 @@ Ensure you have the following installed:
 **Project Structure**
 
     src/
-
     ├── components/ # Reusable components
-
     ├── Store/ # Redux slices and related logic
-
     ├── pages/ # Page components for routing
-
     ├── App.js # Main application component
-
     ├── index.js # Entry point for React
-
     ├── ... # Other files and configurations
 
 **Redux DevTools**
